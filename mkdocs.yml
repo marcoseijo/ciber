@@ -1,14 +1,15 @@
-site_name: "Ciberseguridad - Marcos Eijo"
+site_name: "marcoseijo/ciber"
 theme:
   name: swan
-  
+  logo: assets/logo.png
 
 nav:
   - Bienvenida: index.md
   - Normativa de seguridad:
       - Introducción: normativa/index.md
       - UD1: normativa/ud1.md
-      - UD2: normativa/ud2.md
+      - UD2 - Gestión de riesgos: normativa/ud2.md
+          - Normas: normativa/ud2_normas.md
       - UD3: normativa/ud3.md
   - Hacking Ético:
       - Introducción: hacking-etico/index.md

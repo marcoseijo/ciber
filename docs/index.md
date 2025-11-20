@@ -17,7 +17,7 @@ A continuación se presentan las normas de compliance más relevantes, agrupadas
 ---
 
 ## 🚫 Antisoborno y prevención de fraudes
-- **UNE-ISO 37001:2017** – Prevención de corrupción, cohecho y tráfico de influencias.  
+- **UNE-ISO 37001:2025** – Prevención de corrupción, cohecho y tráfico de influencias.  
 - **UNE-ISO 37000** – Gobernanza de las organizaciones, incluyendo ética y transparencia.  
 - **UNE-ISO 37002** – Sistemas de gestión de canales de denuncia.
 

@@ -16,4 +16,6 @@ nav:
       - Introducción: hacking-etico/index.md
   - Recursos:
       - Introducción: recursos/index.md
+      - Iconos Unicode: recursos/iconos.md
+      - Guía de recursos: recursos/subir_recursos.md
   - Referencias: referencias/index.md

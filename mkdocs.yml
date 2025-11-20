@@ -1,7 +1,10 @@
-site_name: My Docs
+<<<<<<< HEAD
+site_name: NC
 
 theme:
   name: material
   palette:
     primary: indigo
     accent: yellow
+=======
+>>>>>>> d3e67a55b4cefb2f23cf9a0523a516b5ae95a9e3

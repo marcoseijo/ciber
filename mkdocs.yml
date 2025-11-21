@@ -11,6 +11,7 @@ nav:
       - UD2 - Gestión de riesgos:
           - Página principal: normativa/ud2.md
           - Normas: normativa/ud2_normas.md
+          - Marco legal: normativa/ud2_marco_legal.md
       - UD3: normativa/ud3.md
   - Hacking Ético:
       - Introducción: hacking-etico/index.md

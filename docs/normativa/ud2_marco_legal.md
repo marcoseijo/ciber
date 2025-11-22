@@ -38,6 +38,13 @@ Las licencias **CC** permiten a los creadores especificar qué usos permiten de 
 Se aplican a textos, imágenes, vídeos, música y, en menor medida, software.  
 Son útiles para decidir cómo compartir y reutilizar contenido respetando la autoría.
 
+| Icono | Abreviatura | Significado | Descripción de la Condición |
+| :---: | :---: | :---: | :--- |
+| **👤** | **BY** | **Reconocimiento (Attribution)** | **Obligatorio en todas las licencias CC.** Debes dar crédito al autor original de forma adecuada, proporcionar un enlace a la licencia e indicar si se realizaron cambios. |
+| **💲** | **NC** | **No Comercial (NonCommercial)** | No permite el uso de la obra para **fines lucrativos** o comerciales. |
+| **🔁** | **SA** | **Compartir Igual (ShareAlike)** | Si remezclas, transformas o creas a partir del material, debes distribuir tu contribución bajo la **misma licencia** del original. |
+| **🚫** | **ND** | **Sin Obra Derivada (NoDerivatives)** | No permite modificar, transformar o adaptar la obra. Solo se permite su uso en su **forma original**. |
+
 ---
 
 ## 🔐 Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)

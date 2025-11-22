@@ -7,11 +7,18 @@ nav:
   - Bienvenida: index.md
   - Normativa de seguridad:
       - Introducción: normativa/index.md
-      - UD1: normativa/ud1.md
+      - UD1 - Bases del compliance:
+          - Página principal: normativa/ud1.md
+          - Compliance: normativa/ud1_compliance.md
+          - Buen gobierno: normativa/ud1_gobierno.md
+          - Compliance Oficcer: normativa/ud1_oficcer.md
+          - Relaciones con terceros: normativa/ud1_terceros.md
       - UD2 - Gestión de riesgos:
           - Página principal: normativa/ud2.md
+          - Sistemas de gestión de compliance: normativa/ud2_sgc.md
           - Normas: normativa/ud2_normas.md
           - Marco legal: normativa/ud2_marco_legal.md
+          - Riesgos: normativa/ud2_riesgos.md
       - UD3: normativa/ud3.md
   - Hacking Ético:
       - Introducción: hacking-etico/index.md

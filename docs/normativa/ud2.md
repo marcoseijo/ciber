@@ -43,5 +43,5 @@ _Gestiona riesgos y normas antes de que se conviertan en problemas._
 
 - **Sistemas de xestión de Compliance**  
 - **Contorno regulatorio de aplicación**  
-- **Análise e xestión de riscos**: mapas de riscos  
+- **Análise e xestión de riscos**
 - **Documentación do sistema de cumprimento normativo deseñado**

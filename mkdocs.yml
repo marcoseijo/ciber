@@ -13,13 +13,16 @@ nav:
           - Buen gobierno: normativa/ud1_gobierno.md
           - Compliance Oficcer: normativa/ud1_oficcer.md
           - Relaciones con terceros: normativa/ud1_terceros.md
-      - UD2 - Gestión de riesgos:
+      - UD2 - Diseño de sistemas de compliance:
           - Página principal: normativa/ud2.md
           - Sistemas de gestión de compliance: normativa/ud2_sgc.md
           - Normas: normativa/ud2_normas.md
           - Marco legal: normativa/ud2_marco_legal.md
           - Riesgos: normativa/ud2_riesgos.md
-      - UD3: normativa/ud3.md
+          - Documentación del sistema: normativa/ud2_documentacion.md
+      - UD3 - Legislación penal: normativa/ud3.md
+      - UD4 - Legislación protección de datos: normativa/ud4.md
+      - UD5 - Normativa de ciber nacional e internacional: normativa/ud5.md
   - Hacking Ético:
       - Introducción: hacking-etico/index.md
   - Recursos:

@@ -126,7 +126,16 @@ Elementos clave:
 
 ### 2️⃣ Análisis de riesgos
 
+Fases típicas para el análisis de riesgos:
+
+- Fase 1: Definir el alcance
+- Fase 2: Identificar los activos
+- Fase 3: Identificar vulnerabilidades y salvaguardas
+- Fase 4: Identificar amenzas
+
 ---
+
+### 3️⃣ Evaluación de riesgos
 
 #### Estimación del nivel de riesgo
 
@@ -164,19 +173,10 @@ Con ambos valores se calcula el **nivel de riesgo**:
 
 ---
 
-
-> Esta etapa establece la base para priorizar los riesgos y decidir acciones adecuadas en la siguiente fase.
-
-
----
-
-### 3️⃣ Evaluación de riesgos
-
 Comparar los resultados del análisis con **criterios de riesgo predefinidos** para determinar su relevancia y prioridad:
 
 - Establecer el **nivel de riesgo** de cada amenaza.
 - Decidir qué riesgos requieren atención inmediata y cuáles son aceptables dentro del apetito de riesgo de la organización.
-
 
 ---
 
@@ -195,8 +195,6 @@ Consiste en **eliminar la causa o la actividad que genera el riesgo**.
 - No almacenar datos sensibles que no sean imprescindibles.
 - Suspender un proyecto con alto riesgo legal hasta implementar medidas correctivas.
 - Desconectar sistemas críticos de redes públicas hasta garantizar su seguridad.
-
-> Evitar el riesgo suele ser la medida más segura, pero puede limitar oportunidades.
 
 ---
 

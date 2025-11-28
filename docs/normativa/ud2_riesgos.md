@@ -186,7 +186,7 @@ Una vez evaluados los riesgos, es momento de **decidir cómo gestionarlos de man
 
 ---
 
-#### 🛑 Evitar el riesgo
+#### Evitar el riesgo
 
 Consiste en **eliminar la causa o la actividad que genera el riesgo**.  
 
@@ -234,7 +234,7 @@ Delegar la gestión del riesgo a un **tercero especializado**, reduciendo la exp
 
 ---
 
-#### ✅ Aceptar el riesgo
+#### Aceptar el riesgo
 
 Asumir un riesgo cuando **está dentro del umbral tolerable** o cuando los costos de mitigación son mayores que el impacto potencial.  
 
@@ -276,7 +276,7 @@ Para gestionar los riesgos de manera efectiva, es esencial contar con **métodos
 
 ---
 
-### 📘 MAGERIT
+### MAGERIT
 
 **MAGERIT** significa *Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información*.  
 
@@ -289,7 +289,7 @@ Para gestionar los riesgos de manera efectiva, es esencial contar con **métodos
 
 ---
 
-### 🏛 COSO
+### COSO
 
 **COSO** (*Committee of Sponsoring Organizations of the Treadway*) es un sistema de gestión de riesgos y control interno utilizado principalmente en auditoría.  
 
@@ -301,7 +301,7 @@ Para gestionar los riesgos de manera efectiva, es esencial contar con **métodos
 
 ---
 
-### 🌐 ISO 37301
+### ISO 37301
 
 **ISO 37301** (anteriormente UNE-ISO 19600) establece los requisitos para un **Sistema de Gestión de Compliance** efectivo:  
 

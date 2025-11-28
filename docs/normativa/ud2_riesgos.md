@@ -112,7 +112,15 @@ Esta sección explica **qué ocurre en cada etapa del proceso de gestión de rie
 
 ---
 
-### 1️⃣ Identificación de riesgos
+### 1️⃣ Definir el alcance
+
+El primer paso a la hora de llevar a cabo el análisis de riesgos, es establecer el alcance del estudio. 
+Por ejemplo, análisis de riesgos sobre los procesos del departamento Administración, análisis de riesgos sobre los procesos de producción y gestión de almacén o análisis de riesgos sobre los sistemas TIC relacionados con la página web de la empresa, etc. 
+
+
+---
+
+### 2️⃣ Identificar los riesgos
 
 Se trata de **reconocer todos los riesgos que pueden afectar a los objetivos de cumplimiento**.  
 Elementos clave:
@@ -122,20 +130,18 @@ Elementos clave:
 - Revisar el contexto de la organización, actividades y procesos.
 - Registrar riesgos identificados para su posterior análisis.
 
----
 
-### 2️⃣ Análisis de riesgos
+Fases típicas para la identificación de riesgos:
 
-Fases típicas para el análisis de riesgos:
-
-- Fase 1: Definir el alcance
-- Fase 2: Identificar los activos
-- Fase 3: Identificar vulnerabilidades y salvaguardas
-- Fase 4: Identificar amenzas
+- Fase 1: Identificar los activos
+- Fase 2: Identificar vulnerabilidades y salvaguardas
+- Fase 3: Identificar amenzas
 
 ---
 
 ### 3️⃣ Evaluación de riesgos
+
+Con esta información, nos encontramos en condiciones de calcular el riesgo. Para cada par activo-amenaza, estimaremos la probabilidad de que la amenaza se materialice y el impacto sobre el negocio que esto produciría.
 
 #### Estimación del nivel de riesgo
 
@@ -151,7 +157,9 @@ Tras identificar los riesgos, es necesario **valorar su impacto y la probabilida
 
 Con ambos valores se calcula el **nivel de riesgo**:
 
-**Nivel de riesgo = Probabilidad × Impacto**
+<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; width:100%; text-align:center;">
+<strong>Riesgo = Probabilidad × Impacto</strong>
+</div>
 
 ---
 

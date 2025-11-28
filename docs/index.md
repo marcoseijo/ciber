@@ -6,7 +6,7 @@ Un espacio diseñado para aprender, enseñar y explorar el campo de la cibersegu
 
 ## Índice de secciones
 
-🔒 [Normativa de seguridad](normativa/index.md)   
+🔒 [Normativa de Ciberseguridad](normativa/index.md)   
   Todo sobre normas, estándares y buenas prácticas en ciberseguridad.
 
 🛡️ [Hacking Ético](hacking-etico/index.md)   

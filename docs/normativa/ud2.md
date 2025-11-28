@@ -41,7 +41,7 @@ _Gestiona riesgos y normas antes de que se conviertan en problemas._
 
 ### 📚 BC2 - Deseño de sistemas de cumprimento normativo
 
-- **Sistemas de xestión de Compliance**  
-- **Contorno regulatorio de aplicación**  
-- **Análise e xestión de riscos**
-- **Documentación do sistema de cumprimento normativo deseñado**
+- Sistemas de xestión de Compliance
+- Contorno regulatorio de aplicación
+- Análise e xestión de riscos
+- Documentación do sistema de cumprimento normativo deseñado

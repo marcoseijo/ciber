@@ -268,7 +268,7 @@ Mantener **información clara y continua con todas las partes involucradas**:
 - Mejorar la colaboración y la aceptación de medidas de mitigación.
 - Documentar la información para la rendición de cuentas y auditorías.
 
-
+---
 
 # 4. Métodos de análisis (LAS HERRAMIENTAS)
 

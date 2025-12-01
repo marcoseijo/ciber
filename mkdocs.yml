@@ -8,13 +8,13 @@ nav:
   - Normativa de seguridad:
       - Introducción: normativa/index.md
       - UD1 - Bases del compliance:
-          - Página principal: normativa/ud1.md
+          - Introducción: normativa/ud1.md
           - 1. Compliance: normativa/ud1_compliance.md
           - 2. Buen gobierno: normativa/ud1_gobierno.md
           - 3. Compliance Oficcer: normativa/ud1_oficcer.md
           - 4. Relaciones con terceros: normativa/ud1_terceros.md
       - UD2 - Diseño de sistemas de compliance:
-          - Página principal: normativa/ud2.md
+          - Introducción: normativa/ud2.md
           - 1. Sistemas de gestión de compliance: normativa/ud2_sgc.md
           - 2. Normas compliance: normativa/ud2_normas.md
           - 3. Riesgos: normativa/ud2_riesgos.md

@@ -1,4 +1,4 @@
-## 5.1. La importancia del riesgo externo
+## 4.1. La importancia del riesgo externo
 
 No todos los riesgos provienen de dentro de la organización. **Proveedores, socios comerciales, distribuidores o subcontratistas** pueden suponer un riesgo si no actúan conforme a la ley.
 
@@ -6,7 +6,7 @@ Por ello, el compliance exige **controlar también las relaciones con terceros**
 
 ---
 
-## 5.2. Due diligence y controles
+## 4.2. Due diligence y controles
 
 La **due diligence** es el proceso mediante el cual la organización analiza a terceros para comprobar:
 

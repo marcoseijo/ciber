@@ -1,4 +1,4 @@
-## 1. Normas de Compliance UNE-ISO
+## 1. Normas de compliance UNE-ISO
 
 A continuación se presentan las normas de compliance más relevantes, agrupadas por categoría:
 

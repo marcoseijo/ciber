@@ -70,3 +70,6 @@ _Ejemplo destacado_: **UNE-ISO 37301** (gestión de compliance).
 - **Canal de denuncias:** obligatorio y funcional para detectar riesgos e incumplimientos.  
 - **Sistema disciplinario:** sanciones internas que refuercen el cumplimiento.  
 - **Revisión continua:** evaluación periódica y mejora del sistema según resultados y cambios internos.
+
+
+---

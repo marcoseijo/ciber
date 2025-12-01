@@ -19,3 +19,5 @@ Entre sus funciones más relevantes se encuentran:
 - Reporte al órgano de gobierno.  
 
 Para desempeñar estas tareas, es esencial que cuente con **independencia, objetividad y capacidad para tomar decisiones difíciles**.
+
+---

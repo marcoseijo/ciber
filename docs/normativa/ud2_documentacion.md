@@ -28,3 +28,5 @@ En nuestro modelo, se debe **acreditar que cada decisión de la empresa se ajust
 - Sistema disciplinario y **sanciones aplicadas**
 
 > Una documentación completa garantiza **transparencia**, facilita **auditorías** y asegura que la organización puede demostrar su **cumplimiento normativo** de manera objetiva
+
+---

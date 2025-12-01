@@ -20,3 +20,5 @@ Un sistema de compliance eficiente persigue:
 - Generar confianza en trabajadores, clientes, proveedores y en la sociedad.
 
 En definitiva, el compliance es un **compromiso permanente con la legalidad y la ética**.
+
+---

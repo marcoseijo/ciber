@@ -23,3 +23,5 @@ En este sentido, el compliance y la ética profesional se complementan:
 - **La ética** inspira la conducta cotidiana y la toma de decisiones.  
 
 Una organización ética generará confianza y favorecerá el cumplimiento natural de las normas. Una cultura ética débil, en cambio, hará necesario un control más rígido y menos eficaz.
+
+---

@@ -22,3 +22,5 @@ Además, se utilizan herramientas como:
 - Auditorías periódicas a socios estratégicos.  
 
 Gestionar adecuadamente estas relaciones reduce la posibilidad de **incumplimientos vinculados a terceros**.
+
+---

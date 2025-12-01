@@ -1,5 +1,7 @@
 ## 4.1. La figura del Compliance Officer
 
+![Hermes](../assets/Hermes_Get_to_Work.webp)
+
 El **Compliance Officer** es el profesional encargado de planificar, coordinar y supervisar el sistema de cumplimiento normativo. Su papel es clave porque actúa como puente entre la normativa, la dirección y los empleados.
 
 ---

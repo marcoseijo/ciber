@@ -11,7 +11,7 @@ El sistema funciona mediante un ciclo continuo:
 - **Comprobar (Check):** monitorizar cómo va todo y recoger datos.
 - **Actuar (Act):** usar la información para mejorar el plan, corregir riesgos o incumplimientos.
 
-![Plan-Do-Check-Act](/assets/PDCA.png)
+![Plan-Do-Check-Act](../assets/PDCA.png)
 
 La clave es que este ciclo se repite constantemente, asegurando que la empresa cumple de forma real y no solo “en papel”.
 

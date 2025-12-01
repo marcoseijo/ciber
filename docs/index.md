@@ -4,18 +4,18 @@ Un espacio diseñado para aprender, enseñar y explorar el campo de la cibersegu
 
 ---
 
-## Índice de secciones
+# Índice de secciones
 
-🔒 [<span style="color:#e67600;">Normativa de Ciberseguridad</span>](normativa/index.md)   
+## ⚖️ [<span style="color:#e67600;">Normativa de Ciberseguridad</span>](normativa/index.md)   
   Todo sobre normas, estándares y buenas prácticas en ciberseguridad.
 
-🛡️ [<span style="color:#e67600;">Hacking Ético</span>](hacking-etico/index.md)   
+## 🕵️‍♂️ [<span style="color:#e67600;">Hacking Ético</span>](hacking-etico/index.md)   
   Cursos, ejercicios y notas personales de hacking ético.
 
-📂 [<span style="color:#e67600;">Recursos</span>](recursos/index.md)   
+## 📂 [<span style="color:#e67600;">Recursos</span>](recursos/index.md)   
   Material adicional, enlaces interesantes y herramientas útiles.
 
-📚 [<span style="color:#e67600;">Referencias</span>](referencias/index.md)   
+## 📚 [<span style="color:#e67600;">Referencias</span>](referencias/index.md)   
   Bibliografía y fuentes de la información incluida en la web.
 
 

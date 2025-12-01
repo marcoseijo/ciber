@@ -41,7 +41,8 @@ _Gestiona riesgos y normas antes de que se conviertan en problemas._
 
 ### 📚 BC2 - Deseño de sistemas de cumprimento normativo
 
-- Sistemas de xestión de Compliance
-- Contorno regulatorio de aplicación
-- Análise e xestión de riscos
-- Documentación do sistema de cumprimento normativo deseñado
+- [<span style="color:#e67600;">**Sistemas de xestión de Compliance**</span>](ud2_sgc.md): Estrutura e funcionamento dos sistemas de compliance dentro dunha organización.
+- [<span style="color:#e67600;">**Contorno regulatorio de aplicación**</span>](ud2_normas.md): Normativa e leis que afectan a organizacións segundo ISO e outras guías.
+- [<span style="color:#e67600;">**Análise e xestión de riscos**</span>](ud2_riesgos.md): Identificación, avaliación e control de riscos internos e externos.
+- [<span style="color:#e67600;">**Documentación do sistema de cumprimento**</span>](ud2_documentacion.md): Rexistros que demostran a correcta implementación do sistema.
+

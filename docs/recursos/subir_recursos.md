@@ -3,6 +3,11 @@
 Este archivo sirve como referencia para añadir **archivos multimedia** a tu web de MkDocs: PDFs, imágenes y videos.
 
 ---
+## Estilos
+
+### <span style="color:#e67600;">🌐 ISO 31000</span>
+Para poner por ejemplo un título de color naranja
+
 
 ## 📄 PDFs
 

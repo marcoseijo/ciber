@@ -6,17 +6,17 @@ Un espacio diseñado para aprender, enseñar y explorar el campo de la cibersegu
 
 ## Índice de secciones
 
-🔒 [Normativa de Ciberseguridad](normativa/index.md)   
+🔒 [<span style="color:#e67600;">Normativa de Ciberseguridad</span>](normativa/index.md)   
   Todo sobre normas, estándares y buenas prácticas en ciberseguridad.
 
-🛡️ [Hacking Ético](hacking-etico/index.md)   
+🛡️ [<span style="color:#e67600;">Hacking Ético</span>](hacking-etico/index.md)   
   Cursos, ejercicios y notas personales de hacking ético.
 
-📂 [Recursos](recursos/index.md)   
+📂 [<span style="color:#e67600;">Recursos</span>](recursos/index.md)   
   Material adicional, enlaces interesantes y herramientas útiles.
 
-📚 [Referencias](referencias/index.md)   
+📚 [<span style="color:#e67600;">Referencias</span>](referencias/index.md)   
   Bibliografía y fuentes de la información incluida en la web.
 
 
-Navega, experimenta y utiliza este libro como cuaderno de aprendizaje, repositorio de consulta o guía docente. Ciber crecerá con el tiempo, y cada sección está pensada para ampliarse de forma modular y ordenada.
+Navega, experimenta y utiliza este libro como cuaderno de aprendizaje, repositorio de consulta o guía docente.

@@ -17,7 +17,7 @@ La clave es que este ciclo se repite constantemente, asegurando que la empresa c
 
 ---
 
-## Tipos de normas
+## 1.1 Tipos de normas
 
 - **Obligatorias:** todas las empresas deben cumplirlas por ley.
 - **Voluntarias:** adoptadas por iniciativa propia para mejorar gestión, calidad o seguridad.
@@ -27,7 +27,7 @@ La clave es que este ciclo se repite constantemente, asegurando que la empresa c
 
 ---
 
-## 1. Normas ISO
+## Normas ISO
 
 - **Organización:** elaboradas por la ISO con participación de expertos internacionales.  
 - **Alcance:** global.  
@@ -36,7 +36,7 @@ La clave es que este ciclo se repite constantemente, asegurando que la empresa c
 
 ---
 
-## 2. Normas UNE y AENOR
+## Normas UNE y AENOR
 
 - **UNE:** “Una Norma Española”, con alcance nacional.  
 - **AENOR:** Asociación Española de Normalización y Certificación. Desarrolla normas UNE y certifica su cumplimiento.
@@ -48,7 +48,7 @@ _Ejemplo destacado_: **UNE-ISO 37301** (gestión de compliance).
 
 ---
 
-## 3. Estructura típica de normas compliance
+## 1.2 Estructura típica de normas compliance
 1. Ámbito  
 2. Normas de referencia  
 3. Términos y definiciones  

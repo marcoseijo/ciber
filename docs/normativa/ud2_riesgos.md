@@ -5,7 +5,7 @@ La gestión de riesgos es un pilar esencial para cualquier organización que asp
 
 ---
 
-## 🔔 Un caso para situarnos
+## Un caso para situarnos
 
 Imagina una pequeña empresa que depende de un servidor local para gestionar pedidos.  
 Un día, el sistema deja de funcionar a causa de un fallo eléctrico. Durante horas, no pueden vender, registrar entregas ni atender a su clientela. El equipo se moviliza, pero sin un plan de riesgos ni medidas preventivas, todo se improvisa y se lía parda...  
@@ -19,7 +19,7 @@ Por eso la gestión de riesgos no es un documento estático, sino un ciclo vivo 
 
 ---
 
-# 1. Definiciones
+# 3.1 Definiciones
 
 En esta sección introducimos los conceptos fundamentales de la gestión de riesgos, esenciales para comprender cómo identificar, evaluar y tratar los riesgos en cualquier organización, incluyendo el ámbito de la ciberseguridad.
 
@@ -87,7 +87,7 @@ En ciberseguridad, la protección de la información se basa en tres principios 
 
 ---
 
-# 2. Marco de referencia: <a href="https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0059900" style="color:#ff8c00;">UNE-ISO 31000:2018</a>
+# 3.2 Marco de referencia: <a href="https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0059900" style="color:#ff8c00;">UNE-ISO 31000:2018</a>
 
 El **marco de referencia** proporciona la estructura y los principios para gestionar riesgos de manera sistemática y consistente, alineando la gestión de riesgos con los objetivos de la organización y con el cumplimiento normativo.
 
@@ -106,7 +106,7 @@ La norma ISO 31000 establece principios que toda organización debe considerar a
 
 ---
 
-# 3. Análisis y gestión de riesgos (EL PROCESO)
+# 3.3 Análisis y gestión de riesgos (EL PROCESO)
 
 Esta sección explica **qué ocurre en cada etapa del proceso de gestión de riesgos**, siguiendo el flujo recomendado por ISO 31000 y adaptado al compliance.  
 
@@ -167,15 +167,15 @@ Con ambos valores se calcula el **nivel de riesgo**:
 
 | Probabilidad \ Impacto | Insignificante | Menor | Serio | Desastroso | Catastrófico |
 | :--------------------: | :------------: | :---: | :---: | :--------: | :----------: |
-|   Muy improbable (1)   |        1       |   2   |   3   |      4     |       5      |
+|   Muy improbable (1)   |        <span style="color:green">1</span>       |   2   |   3   |      4     |       5      |
 |     Improbable (2)     |        2       |   4   |   6   |      8     |      10      |
-|       Posible (3)      |        3       |   6   |   9   |     12     |      15      |
-|    Muy probable (4)    |        4       |   8   |   12  |     16     |      20      |
-|     Casi seguro (5)    |        5       |   10  |   15  |     20     |      25      |
+|       Posible (3)      |        3       |   6   |   9   |     <span style="color:yellow">12</span>     |      15      |
+|    Muy probable (4)    |        4       |   8   |   <span style="color:yellow">12</span>  |     16     |      20      |
+|     Casi seguro (5)    |        5       |   10  |   15  |     20     |      <span style="color:red">25</span>      |
 
 * **Zona roja:** riesgo inaceptable → requiere acción inmediata
 * **Zona amarilla:** riesgo moderado → aplicar medidas de mitigación
-* **Zona blanca:** riesgo bajo → se puede aceptar
+* **Zona verde:** riesgo bajo → se puede aceptar
 
 > Esta matriz permite **comparar riesgos antes y después de aplicar controles** y decidir el tratamiento más adecuado.
 
@@ -276,7 +276,7 @@ Mantener **información clara y continua con todas las partes involucradas**:
 
 ---
 
-# 4. Métodos de análisis (LAS HERRAMIENTAS)
+# 3.4 Métodos de análisis (LAS HERRAMIENTAS)
 
 Para gestionar los riesgos de manera efectiva, es esencial contar con **métodos y herramientas estructurados** que permitan identificar, analizar y medir los riesgos de forma objetiva y reproducible. A continuación se presentan algunas metodologías reconocidas.
 

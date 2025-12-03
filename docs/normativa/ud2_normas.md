@@ -1,4 +1,4 @@
-## 1. Normas de compliance UNE-ISO
+## 2.1 Normas de compliance UNE-ISO
 
 A continuación se presentan las normas de compliance más relevantes, agrupadas por categoría:
 
@@ -41,7 +41,7 @@ A continuación se presentan las normas de compliance más relevantes, agrupadas
 
 ---
 
-## 2. Normativas obligatoria sobre seguridad, información y derechos digitales
+## 2.2 Normativas obligatoria sobre seguridad, información y derechos digitales
 
 Este apartado presenta una visión general del marco legal que regula la seguridad de la información, los servicios digitales, la propiedad intelectual y la protección de datos en España.
 

@@ -31,11 +31,9 @@ En nuestro modelo, se debe **acreditar que cada decisión de la empresa se ajust
 
 ---
 
-# Práctica: CISO Assistant — San Clemente Solutions
+## Práctica: CISO Assistant — San Clemente Solutions
 
 ---
-
-## ENUNCIADO
 
 ### 🏢 Contexto
 

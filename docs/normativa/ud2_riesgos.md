@@ -318,7 +318,7 @@ Para gestionar los riesgos de manera efectiva, es esencial contar con **métodos
 > El cumplimiento normativo se convierte así en un elemento **sostenible y medible** a largo plazo.
 
 
-### CISO Assistant
+
 
 ---
 

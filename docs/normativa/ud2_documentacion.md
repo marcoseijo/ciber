@@ -33,6 +33,9 @@ En nuestro modelo, se debe **acreditar que cada decisión de la empresa se ajust
 
 ## Práctica: CISO Assistant — San Clemente Solutions
 
+Documentación oficial [CISO Assistant](https://intuitem.gitbook.io/ciso-assistant "Ir a la documentación") para más información.
+
+
 ---
 
 ### 🏢 Contexto

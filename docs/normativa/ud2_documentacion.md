@@ -33,8 +33,7 @@ En nuestro modelo, se debe **acreditar que cada decisión de la empresa se ajust
 
 ## Práctica: CISO Assistant — San Clemente Solutions
 
-Documentación oficial [CISO Assistant](https://intuitem.gitbook.io/ciso-assistant "Ir a la documentación") para más información.
-
+Documentación oficial: [CISO Assistant](https://intuitem.gitbook.io/ciso-assistant "Ir a la documentación") para más información.
 
 ---
 
@@ -45,6 +44,7 @@ San Clemente Solutions es una empresa tecnológica que desarrolla software de ge
 Se decide implantar **CISO Assistant** como herramienta centralizada.
 
 **Objetivos de la práctica:**
+
 - Configurar desde cero la organización en CISO Assistant.
 - Definir roles, usuarios y grupos.
 - Identificar riesgos y construir una matriz de riesgos.
@@ -60,13 +60,13 @@ Se decide implantar **CISO Assistant** como herramienta centralizada.
 - Dominio corporativo principal: `SanClemente`.
 
 #### 2. Configurar perímetros de seguridad
-- **Perímetro interno (On-Premise)**  
+**Perímetro interno (On-Premise)**  
   - Servidores en oficina, LAN, switches, almacenamiento interno.  
   - ERP interno usado por Administración.
-- **Perímetro nube (Cloud Services)**  
+**Perímetro nube (Cloud Services)**  
   - Elegir plataforma: AWS / Azure / GCP.  
   - Contiene aplicaciones de desarrollo, base de datos de clientes y web corporativa.
-- **Opcional:** Perímetro dispositivos móviles/teletrabajo  
+**Opcional:** Perímetro dispositivos móviles/teletrabajo  
   - Portátiles corporativos, acceso VPN, BYOD si aplica.
 
 #### 3. Crear usuarios y grupos
@@ -80,14 +80,14 @@ Se decide implantar **CISO Assistant** como herramienta centralizada.
 | Auditor Externo         | Revisión y control   | Viewer / Auditor |
 | DPO_SanClemente         | Cumplimiento GDPR    | Editor           |
 
-- Grupos mínimos:
+Grupos mínimos:
   - **Equipo de Seguridad:** CISO + Técnico
   - **Auditoría y Cumplimiento:** Auditor + Dirección
 
 #### 4. Identificación y análisis de riesgos
 - Identificar mínimo 5 riesgos asignados a perímetros.
 - Crear **matriz de riesgos 3×3 o 5×5** (probabilidad × impacto).
-- Ejemplos:
+Ejemplos:
   - Fuga de datos en cloud.
   - Acceso no autorizado a servidores internos.
   - Malware en teletrabajo.
@@ -104,7 +104,7 @@ Se decide implantar **CISO Assistant** como herramienta centralizada.
 - Auditoría interna y externa.
 - Evaluar controles por áreas clave: políticas, accesos, continuidad, operación de sistemas.
 - Añadir mínimo 3 evidencias.
-- Generar informe final (borrador aceptable).
+- Generar informe final.
 
 ---
 

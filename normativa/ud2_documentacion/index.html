@@ -1174,6 +1174,235 @@
 <p>Una documentación completa garantiza <strong>transparencia</strong>, facilita <strong>auditorías</strong> y asegura que la organización puede demostrar su <strong>cumplimiento normativo</strong> de manera objetiva</p>
 </blockquote>
 <hr />
+<h1 id="practica-ciso-assistant-san-clemente-solutions">Práctica: CISO Assistant — San Clemente Solutions</h1>
+<hr />
+<h2 id="enunciado">ENUNCIADO</h2>
+<h3 id="contexto">🏢 Contexto</h3>
+<p>San Clemente Solutions es una empresa tecnológica que desarrolla software de gestión para PYMES. La empresa ha crecido recientemente y necesita formalizar su sistema de seguridad, incluyendo gestión de riesgos, controles documentados y auditorías periódicas.</p>
+<p>Se decide implantar <strong>CISO Assistant</strong> como herramienta centralizada.</p>
+<p><strong>Objetivos de la práctica:</strong>
+- Configurar desde cero la organización en CISO Assistant.
+- Definir roles, usuarios y grupos.
+- Identificar riesgos y construir una matriz de riesgos.
+- Aplicar un framework de seguridad.
+- Realizar una auditoría inicial (interna y externa).</p>
+<hr />
+<h3 id="tareas-a-realizar">📝 Tareas a realizar</h3>
+<h4 id="1-crear-la-organizacion-y-dominios">1. Crear la organización y dominios</h4>
+<ul>
+<li>Nombre de la organización: <code>San Clemente Solutions</code>.</li>
+<li>Dominio corporativo principal: <code>SanClemente</code>.</li>
+</ul>
+<h4 id="2-configurar-perimetros-de-seguridad">2. Configurar perímetros de seguridad</h4>
+<ul>
+<li><strong>Perímetro interno (On-Premise)</strong>  </li>
+<li>Servidores en oficina, LAN, switches, almacenamiento interno.  </li>
+<li>ERP interno usado por Administración.</li>
+<li><strong>Perímetro nube (Cloud Services)</strong>  </li>
+<li>Elegir plataforma: AWS / Azure / GCP.  </li>
+<li>Contiene aplicaciones de desarrollo, base de datos de clientes y web corporativa.</li>
+<li><strong>Opcional:</strong> Perímetro dispositivos móviles/teletrabajo  </li>
+<li>Portátiles corporativos, acceso VPN, BYOD si aplica.</li>
+</ul>
+<h4 id="3-crear-usuarios-y-grupos">3. Crear usuarios y grupos</h4>
+<ul>
+<li>Usuarios mínimos (roles en CISO Assistant y empresa):</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Usuario</th>
+<th>Rol en empresa</th>
+<th>Rol CISO Assistant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dirección General</td>
+<td>Toma decisiones</td>
+<td>Manager</td>
+</tr>
+<tr>
+<td>CISO_SanClemente</td>
+<td>Responsable seguridad</td>
+<td>Admin</td>
+</tr>
+<tr>
+<td>Técnico de Sistemas</td>
+<td>Operaciones IT</td>
+<td>Editor</td>
+</tr>
+<tr>
+<td>Auditor Externo</td>
+<td>Revisión y control</td>
+<td>Viewer / Auditor</td>
+</tr>
+<tr>
+<td>DPO_SanClemente</td>
+<td>Cumplimiento GDPR</td>
+<td>Editor</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Grupos mínimos:</li>
+<li><strong>Equipo de Seguridad:</strong> CISO + Técnico</li>
+<li><strong>Auditoría y Cumplimiento:</strong> Auditor + Dirección</li>
+</ul>
+<h4 id="4-identificacion-y-analisis-de-riesgos">4. Identificación y análisis de riesgos</h4>
+<ul>
+<li>Identificar mínimo 5 riesgos asignados a perímetros.</li>
+<li>Crear <strong>matriz de riesgos 3×3 o 5×5</strong> (probabilidad × impacto).</li>
+<li>Ejemplos:</li>
+<li>Fuga de datos en cloud.</li>
+<li>Acceso no autorizado a servidores internos.</li>
+<li>Malware en teletrabajo.</li>
+<li>Vulnerabilidad en la aplicación web.</li>
+<li>Interrupción del servicio por fallo eléctrico.</li>
+<li>Para cada riesgo: causa, activos afectados, medidas preventivas, responsable.</li>
+</ul>
+<h4 id="5-aplicacion-de-un-framework">5. Aplicación de un framework</h4>
+<ul>
+<li>Elegir uno: ISO 27001:2022, ENS, NIST SP 800-53.</li>
+<li>Crear controles y asociar mínimo 8 a riesgos identificados.</li>
+<li>Indicar estado de implantación: Implementado / Parcial / Pendiente.</li>
+</ul>
+<h4 id="6-auditoria-inicial">6. Auditoría inicial</h4>
+<ul>
+<li>Auditoría interna y externa.</li>
+<li>Evaluar controles por áreas clave: políticas, accesos, continuidad, operación de sistemas.</li>
+<li>Añadir mínimo 3 evidencias.</li>
+<li>Generar informe final (borrador aceptable).</li>
+</ul>
+<hr />
+<h2 id="solucion-tutorial">SOLUCIÓN / TUTORIAL</h2>
+<h3 id="1-crear-la-organizacion">1. Crear la organización</h3>
+<ol>
+<li>Acceder a <strong>Settings → Organization Settings</strong>.</li>
+<li>Crear organización:</li>
+<li><strong>Name:</strong> San Clemente Solutions</li>
+<li>Industria: Tecnología y servicios cloud</li>
+<li>Descripción: SaaS para PYMES</li>
+</ol>
+<h3 id="2-crear-el-dominio-principal">2. Crear el dominio principal</h3>
+<ol>
+<li><strong>Domains → + Create new domain</strong></li>
+<li>Datos:</li>
+<li><strong>Name:</strong> SanClemente_DominioPrincipal</li>
+<li><strong>Manager:</strong> ResponsableSeguridadTI (o tu usuario)</li>
+<li>Guardar cambios.</li>
+</ol>
+<h3 id="3-crear-perimetros">3. Crear perímetros</h3>
+<h4 id="31-perimetro-interno">3.1 Perímetro interno</h4>
+<ul>
+<li><strong>Name:</strong> Perímetro_Interno_OficinaCentral</li>
+<li><strong>Scope:</strong> Internal perimeter</li>
+<li><strong>Responsable:</strong> ITManager</li>
+<li><strong>Descripción:</strong> LAN, servidores internos y ERP</li>
+</ul>
+<h4 id="32-perimetro-cloud">3.2 Perímetro cloud</h4>
+<ul>
+<li><strong>Name:</strong> Perímetro_Cloud_Azure</li>
+<li><strong>Scope:</strong> External perimeter</li>
+<li><strong>Responsable:</strong> CloudAdmin</li>
+<li><strong>Descripción:</strong> Aplicaciones, DB clientes, web corporativa</li>
+</ul>
+<h4 id="33-perimetro-opcional">3.3 Perímetro opcional</h4>
+<ul>
+<li>Dispositivos móviles / teletrabajo</li>
+</ul>
+<h3 id="4-usuarios-roles-y-grupos">4. Usuarios, roles y grupos</h3>
+<h4 id="41-usuarios">4.1 Usuarios</h4>
+<ul>
+<li>Users → Add new user:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Usuario</th>
+<th>Rol principal</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CISO_SanClemente</td>
+<td>CISO</td>
+<td>Responsable global de seguridad</td>
+</tr>
+<tr>
+<td>CloudAdmin</td>
+<td>Cloud Manager</td>
+<td>Administra Azure</td>
+</tr>
+<tr>
+<td>ITManager</td>
+<td>Network &amp; Systems Manager</td>
+<td>Gestor de redes y sistemas</td>
+</tr>
+<tr>
+<td>Auditor_Externo</td>
+<td>Auditor</td>
+<td>Revisor independiente</td>
+</tr>
+<tr>
+<td>DPO_SanClemente</td>
+<td>Data Protection Officer</td>
+<td>Cumplimiento GDPR</td>
+</tr>
+</tbody>
+</table>
+<h4 id="42-grupos">4.2 Grupos</h4>
+<ul>
+<li>Grupo_Seguridad → CISO_SanClemente, ITManager</li>
+<li>Grupo_Cloud → CloudAdmin</li>
+<li>Grupo_Auditoria → Auditor_Externo</li>
+<li>Grupo_Compliance → DPO_SanClemente</li>
+</ul>
+<h3 id="5-matriz-de-riesgos-y-registro">5. Matriz de riesgos y registro</h3>
+<ol>
+<li><strong>Crear matriz 5×5</strong></li>
+<li>Risk Management → Settings → Risk Matrices → + Create</li>
+<li>Likelihood: 1–5, Impact: 1–5</li>
+<li><strong>Registrar riesgos</strong></li>
+<li>R1: Acceso no autorizado portal SaaS (Cloud)</li>
+<li>R2: Caída servidor base de datos (Cloud)</li>
+<li>R3: Malware en red interna (Interno)</li>
+<li>R4: Vulnerabilidad web (Cloud)</li>
+<li>R5: Corte eléctrico (Interno)</li>
+</ol>
+<p>Para cada riesgo:
+- Causa, activos afectados, medidas preventivas, responsable</p>
+<h3 id="6-framework-de-seguridad">6. Framework de seguridad</h3>
+<ol>
+<li><strong>Compliance → Frameworks → + Add</strong> → ISO 27001:2022</li>
+<li>Crear evaluación: Audits → Compliance Assessments → + Create</li>
+<li>Scope: dominio + ambos perímetros</li>
+<li>Auditor: Auditor_Externo</li>
+<li>Evaluar controles (A.5, A.8, A.12, A.16)</li>
+</ol>
+<h3 id="7-auditoria-inicial">7. Auditoría inicial</h3>
+<h4 id="71-auditoria-interna">7.1 Auditoría interna</h4>
+<ul>
+<li>Audits → + New audit</li>
+<li>Scope: Perímetro interno + políticas</li>
+<li>Evaluar 1–2 controles por área: accesos, antivirus, inventario</li>
+<li>Subir evidencias: PDF/capturas</li>
+</ul>
+<h4 id="72-auditoria-externa">7.2 Auditoría externa</h4>
+<ul>
+<li>Scope: Perímetro cloud + ISO 27001</li>
+<li>Auditor: Auditor_Externo</li>
+<li>Revisar: seguridad SaaS, protección datos, gestión incidentes</li>
+</ul>
+<h3 id="8-entregables">8. Entregables</h3>
+<ul>
+<li>Capturas dominio/perímetros y usuarios/grupos</li>
+<li>Export matriz de riesgos</li>
+<li>Listado controles con estado</li>
+<li>Informe de auditoría (PDF)</li>
+<li>Justificación breve (≤10 líneas)</li>
+</ul>
 
 
 

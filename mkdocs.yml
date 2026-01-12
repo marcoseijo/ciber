@@ -19,7 +19,11 @@ nav:
           - 2. Normas compliance: normativa/ud2_normas.md
           - 3. Riesgos: normativa/ud2_riesgos.md
           - 4. Documentación del sistema: normativa/ud2_documentacion.md
-      - UD3 - Legislación penal: normativa/ud3.md
+      - UD3 - Legislación penal: 
+          - Introducción: normativa/ud3.md
+          - 1. Sistemas de gestión de compliance penal: normativa/ud3_compliance_penal.md
+          - 2. Riesgos penales: normativa/ud2_ciberdelitos.md
+          - 3. Sistemas de gestión de anticorrupción : normativa/ud3_anticorrupcion.md
       - UD4 - Legislación protección de datos: normativa/ud4.md
       - UD5 - Normativa de ciber nacional e internacional: normativa/ud5.md
   - Hacking Ético:

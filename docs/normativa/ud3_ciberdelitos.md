@@ -1,4 +1,5 @@
-Código penal
+# Código penal
+
 Es fundamental tener en cuenta que la legislación española aplicable a los modelos de prevención de riesgos penales o sistemas de cumplimiento, conocidos como compliance, se encuentra delineada por el Código Penal Español, así como por las clarificaciones proporcionadas en la Circular 1/2016 de la Fiscalía General del Estado y la jurisprudencia del Tribunal Supremo. Estas herramientas, junto con sistemas de evaluación adaptados a la empresa, permiten desarrollar un completo modelo de gestión de cumplimiento, centrado en la prevención de riesgos penales, incluido el riesgo de corrupción.
 
 Responsabilidad penal y requisitos para que opere la posible eximente de la misma

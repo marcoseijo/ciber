@@ -10,7 +10,7 @@ Su objetivo principal es prevenir, detectar y responder al soborno en cualquier 
 
 - ISO 37001:2016/Amd 1:2024: Se publicó una enmienda para añadir acciones relativas al cambio climático en la gestión de riesgos. (Esta enmienda fue integrada y retirada cuando se actualizó la norma completa).
 
-- [<span style="color:#e67600;">ISO 37001:2025</span>] (https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=norma-une-iso-37001-2017-amd-1-2024-n0072724): Edición actual vigente, que sustituye y revoca la versión de 2016, e incorpora mejoras, clarificaciones y la integración de conceptos como los relativos al cambio climático.
+- [ISO 37001:2025](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=norma-une-iso-37001-2017-amd-1-2024-n0072724): Edición actual vigente, que sustituye y revoca la versión de 2016, e incorpora mejoras, clarificaciones y la integración de conceptos como los relativos al cambio climático.
 
 La norma busca que una organización pueda:
 

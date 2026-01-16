@@ -1,49 +1,90 @@
 # Código penal
 
-Es fundamental tener en cuenta que la legislación española aplicable a los modelos de prevención de riesgos penales o sistemas de cumplimiento, conocidos como compliance, se encuentra delineada por el Código Penal Español, así como por las clarificaciones proporcionadas en la Circular 1/2016 de la Fiscalía General del Estado y la jurisprudencia del Tribunal Supremo. Estas herramientas, junto con sistemas de evaluación adaptados a la empresa, permiten desarrollar un completo modelo de gestión de cumplimiento, centrado en la prevención de riesgos penales, incluido el riesgo de corrupción.
+## 1. Marco legal en España
 
-Responsabilidad penal y requisitos para que opere la posible eximente de la misma
-En lo que respecta a la responsabilidad penal y los requisitos para que opere la posible eximente de la misma, los sistemas de gestión de cumplimiento o los modelos de prevención de delitos se introducen en España a través del Código Penal. Este establece que las empresas son responsables de los acontecimientos que tengan lugar dentro de su ámbito. En la legislación española actual, las empresas son penalmente responsables de los delitos que se cometan en su seno. Sin embargo, esta responsabilidad no abarca todos los delitos ni cualquier delito, sino únicamente aquellos específicamente contemplados en el Código Penal.
+Los **modelos de prevención de riesgos penales** o **sistemas de compliance** en España se apoyan principalmente en:
 
-Artículo 31 bis del Código Penal
-Dice el artículo 31 bis del Código Penal:
+- El **Código Penal español**.
+- La **Circular 1/2016 de la Fiscalía General del Estado**, que aclara cómo deben interpretarse estos modelos.
+- La **jurisprudencia del Tribunal Supremo**, que ha ido consolidando la responsabilidad penal de las personas jurídicas.
 
-En los supuestos previstos en este Código, las personas jurídicas serán penalmente responsables:
+Estas normas permiten a las empresas implantar **sistemas de gestión de cumplimiento** orientados a prevenir delitos, especialmente los relacionados con la **corrupción** y otros riesgos penales.
 
-De los delitos cometidos en nombre o por cuenta de las mismas, y en su beneficio directo o indirecto, por sus representantes legales o por aquellos que actuando individualmente o como integrantes de un órgano de la persona jurídica, están autorizados para tomar decisiones en nombre de la persona jurídica u ostentan facultades de organización y control dentro de la misma.
-De los delitos cometidos, en el ejercicio de actividades sociales y por cuenta y en beneficio directo o indirecto de las mismas, por quienes, estando sometidos a la autoridad de las personas físicas mencionadas en el párrafo anterior, han podido realizar los hechos por haberse incumplido gravemente por aquéllos los deberes de supervisión, vigilancia y control de su actividad atendidas las concretas circunstancias del caso.
-Consecuencias para la empresa
-Penas aplicables a personas jurídicas:
+---
 
-Multas, ya sea en cuantía fija o proporcional.
-Disolución de la entidad jurídica.
-Suspensión de actividades por un período de hasta cinco años.
-Prohibición de ejercer la actividad delictiva por un plazo de 15 años o de manera permanente.
-Inhabilitación para recibir ayudas y subvenciones públicas, contratar con el sector público, disfrutar de beneficios fiscales o laborales, por un máximo de cinco años.
-Intervención judicial por un máximo de cinco años.
-Medidas cautelares:
+## 2. Responsabilidad penal de las empresas
 
-Suspensión de actividades.
-Clausura temporal de locales y establecimientos.
-Intervención judicial.
-En España, cada vez más sentencias están imponiendo la responsabilidad penal a las personas jurídicas, con más de 40 casos destacados hasta la fecha. Entre las primeras y más relevantes, podemos mencionar la STS 514/2015, de 2 de septiembre como pionera, seguida por otras como la STS 154/2016, de 29 de febrero, STS 221/2016 de 21 de marzo, STS 516/2016 de 13 de junio, y STS nº 121/2017 de TS, Sala 2ª, de lo Penal, del 23 de febrero de 2017, entre otras.
+La legislación española establece que las **personas jurídicas pueden ser penalmente responsables** de determinados delitos cometidos en su ámbito de actuación.
 
-A pesar de la relevancia de este cambio legislativo, que puede llevar incluso al cierre de la actividad empresarial, lo más preocupante para una empresa y para el entramado empresarial de un país no es tanto si algunos directivos acaban en prisión, sino más bien el daño a su reputación, imagen y resultados financieros que supone verse involucrado en un caso de corrupción. El riesgo reputacional arrastra consigo consecuencias económicas graves, lo cual puede tener un impacto devastador en toda la cadena de producción.
+Esta responsabilidad:
 
-Los ejemplos tanto dentro como fuera de España abundan, mostrando cómo las sanciones económicas pueden ser tan severas que pongan en peligro la viabilidad misma de una empresa. Esto subraya la importancia de trabajar activamente para prevenir cualquier comportamiento ilícito.
+- **No se aplica a cualquier delito**, sino solo a los expresamente previstos en el Código Penal.
+- Puede afectar directamente a la propia empresa, con consecuencias graves para su actividad.
 
-Delitos vinculados al CP
-La cibercriminalidad se caracteriza por la proliferación y diversidad de formas que pueden adoptar los ataques contra los sistemas de información.
+La introducción de esta responsabilidad penal convierte al compliance en una herramienta clave para **reducir o evitar sanciones**.
 
-Para nuestros propósitos, examinaremos los siguientes aspectos:
+El **artículo 31 bis** regula los supuestos en los que una persona jurídica puede ser penalmente responsable:
 
-Delitos contra la intimidad (artículos 197 a 200 del Código Penal)
-Delito de fraude informático (artículo 248.2 del Código Penal)
-Delito de utilización abusiva de equipos (artículo 256 del Código Penal)
-Delito de daños informáticos (artículo 264 del Código Penal)
-Delitos contra la propiedad intelectual (artículo 270 del Código Penal)
-Delitos contra los secretos de empresa (artículo 278.1 del Código Penal)
-Delitos contra los intereses económicos de los prestadores de servicios (artículo 286 del Código Penal)
-Delitos de pornografía infantil (artículo 189 del Código Penal)
-Otros ilícitos penales
-Conductas de hacking o accesos no autorizados a los sistemas
+1. **Delitos cometidos por directivos o representantes legales**
+   - Cuando actúan en nombre o por cuenta de la empresa.
+   - Siempre que exista un beneficio directo o indirecto para la entidad.
+
+2. **Delitos cometidos por empleados o subordinados**
+   - Cuando actúan bajo la autoridad de los directivos.
+   - Si el delito se ha producido por un **grave incumplimiento de los deberes de supervisión, vigilancia y control**.
+
+Un sistema de compliance eficaz puede actuar como **eximente o atenuante** de esta responsabilidad penal.
+
+---
+
+## 3. Consecuencias penales para la empresa
+
+### 3.1 Penas aplicables a personas jurídicas
+
+Las sanciones que puede imponer un juez incluyen:
+
+- Multas económicas (fijas o proporcionales).
+- Disolución de la persona jurídica.
+- Suspensión de actividades (hasta 5 años).
+- Prohibición de ejercer determinadas actividades (hasta 15 años o permanente).
+- Inhabilitación para recibir ayudas públicas, contratar con el sector público o disfrutar de beneficios fiscales o laborales (hasta 5 años).
+- Intervención judicial (hasta 5 años).
+
+### 3.2 Medidas cautelares
+
+Durante el proceso judicial pueden adoptarse medidas como:
+
+- Suspensión de actividades.
+- Clausura temporal de locales.
+- Intervención judicial de la empresa.
+
+
+### 3.3 Importancia del riesgo reputacional
+
+Más allá de las sanciones penales, el mayor riesgo para una empresa es el **daño reputacional**:
+
+- Pérdida de confianza de clientes y proveedores.
+- Impacto negativo en los resultados económicos.
+- Riesgo para la continuidad del negocio.
+
+Los casos de corrupción suelen generar **consecuencias económicas graves**, incluso aunque no conlleven penas de prisión para los directivos.
+
+Por ello, la **prevención activa de conductas ilícitas** es esencial para la supervivencia empresarial.
+
+---
+
+## 4. Delitos vinculados al Código Penal
+
+En el ámbito de la cibercriminalidad y los sistemas de información, destacan los siguientes delitos:
+
+- **Delitos contra la intimidad** (arts. 197 a 200 CP).
+- **Fraude informático** (art. 248.2 CP).
+- **Utilización abusiva de equipos** (art. 256 CP).
+- **Daños informáticos** (art. 264 CP).
+- **Delitos contra la propiedad intelectual** (art. 270 CP).
+- **Delitos contra los secretos de empresa** (art. 278.1 CP).
+- **Delitos contra los intereses económicos de los prestadores de servicios** (art. 286 CP).
+- **Pornografía infantil** (art. 189 CP).
+- Otras conductas ilícitas como el **hacking o accesos no autorizados a sistemas informáticos**.
+
+Estos delitos refuerzan la necesidad de implantar **controles técnicos, organizativos y formativos** dentro de los programas de compliance.

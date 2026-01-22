@@ -4,9 +4,10 @@ A continuación se presentan las normas de compliance más relevantes, agrupadas
 
 ---
 
-### 🔍 Gestión general de compliance
-- **UNE-ISO 37301:2021** – Sistema de gestión integral de compliance, guía de implementación y certificación.  
-- **ISO 19600:2014** – Marco de referencia para sistemas de gestión de compliance (predecesora de UNE-ISO 37301, no certificable).
+### 🔍 Gestión general de compliance 
+- **ISO 19600:2014** – Marco de referencia para sistemas de gestión de compliance (Anulada).
+- **UNE-ISO 37301:2021** – Sistema de gestión integral de compliance, guía de implementación y certificación. Sustituye a la anterior.
+- [UNE-ISO 37301:2021/Amd 1:2024](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=norma-une-iso-37301-2021-amd-1-2024-n0072725) – Incluye la "Modificación 1: Acciones relativas al cambio climático". 
 
 ---
 
@@ -17,14 +18,14 @@ A continuación se presentan las normas de compliance más relevantes, agrupadas
 ---
 
 ### 🚫 Antisoborno y prevención de fraudes
-- **UNE-ISO 37001:2025** – Prevención de corrupción, cohecho y tráfico de influencias.  
-- **UNE-ISO 37000** – Gobernanza de las organizaciones, incluyendo ética y transparencia.  
-- **UNE-ISO 37002** – Sistemas de gestión de canales de denuncia.
+- **UNE-ISO 37000:2022** – Gobernanza de las organizaciones.
+- **UNE-ISO 37001:2025** – Sistemas de gestión antisoborno.   
+- **UNE-ISO 37002:2021** – Sistemas de gestión de canales de denuncia.
 
 ---
 
 ### 🧩 Gestión de riesgos
-- **UNE-ISO 31000:2018** – Marco internacional de gestión de riesgos aplicable a compliance corporativo.
+- **UNE-ISO 31000:2018** – Marco internacional de gestión de riesgos.
 
 ---
 

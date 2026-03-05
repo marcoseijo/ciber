@@ -1,0 +1,2 @@
+- Privacy by design: La privacidad se piensa antes de programar, desplegar o recoger datos. 
+- Privacy by default: Si el usuario no toca nada, su privacidad sigue protegida.

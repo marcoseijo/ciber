@@ -24,7 +24,13 @@ nav:
           - 1. Sistemas de gestión de compliance penal: normativa/ud3_compliance_penal.md
           - 2. Código penal: normativa/ud3_ciberdelitos.md
           - 3. Sistemas de gestión de anticorrupción: normativa/ud3_anticorrupcion.md
-      - UD4 - Legislación protección de datos: normativa/ud4.md
+      - UD4 - Legislación protección de datos: 
+          - Introducción: normativa/ud4.md
+          - 1. Principios de protección de datos: normativa/ud4_principios.md
+          - 2. RGPD: normativa/ud4_RGPD.md
+          - 3. Privacidad por diseño y por defecto: normativa/ud4_privacidad.md
+          - 4. Evaluación de impacto en protección de datos: normativa/ud4_PIA.md
+          - 5. Delegado de protección de datos: normativa/ud4_DPD.md
       - UD5 - Normativa de ciber nacional e internacional: normativa/ud5.md
   - Hacking Ético:
       - Introducción: hacking-etico/index.md

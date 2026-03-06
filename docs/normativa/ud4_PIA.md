@@ -144,18 +144,18 @@ Los riesgos se consideran **medios o altos** porque afectan directamente a la pr
 
 ## Medidas organizativas
 
-1. Política interna de monitorización que incluya:
+Política interna de monitorización que incluya:
    - finalidad
    - alcance
    - datos tratados
    - derechos de los empleados
-2. Formación del personal en:
+
+Formación del personal en:
    - privacidad
    - protección de datos
    - ciberseguridad
-3. Procedimiento de revisión de incidentes.
-4. Contrato con proveedor externo con cláusulas de confidencialidad.
-5. Revisión periódica del sistema de monitorización.
+
+Contrato con proveedor externo con cláusulas de confidencialidad.
 
 ---
 
